@@ -1,11 +1,13 @@
-# aacell
-The project records for AA Cell.
+# :battery:  aacell
+:star:The project records for AA Cell.
 
-## Frist edition 1.0.0
+:tiger: :dog:
+
+## First edition 1.0.0 
 
 - New functions
   - Create a room.
-  - Transfer files in a specific room with everybody everywhere, only if you hava the web Browser.
+  - Transfer files in a specific room with everybody everywhere, only if you have the web Browser.
   - Send messages in the room.
 
 ## Second edition 1.1.0
@@ -21,5 +23,6 @@ The project records for AA Cell.
 
 - Solved:
   - Fix some bugs.
-  - Solve the file name encode and decode problem, with base64.
+  - Solve the file name encode and decode problem, with Base64.
   - Update UI
+
