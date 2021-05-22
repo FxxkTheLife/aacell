@@ -32,9 +32,3 @@ website: [aacell.me](https://aacell.me)
   - :bug: Fix some bugs.
   - :file_folder: Solve the file name encode and decode problem, with Base64.
   - Update UI
-
-## Interface
-
-![1](1.png)
-
-![2](3.png)
