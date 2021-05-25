@@ -1,6 +1,8 @@
 Welcome, this is the blog space of aacell.
 
-![logo](documentation/logo.svg)
+<div style="text-align:center;">
+  <img src="documentation/logo.svg" alt="logo" height="240px" />
+</div>
 
 Our [promotion articles](documentation/articles.md).
 
