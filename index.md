@@ -1,8 +1,8 @@
-Welcome, this is the blog space of aacell.
-
 <div style="text-align:center;">
   <img src="documentation/logo.svg" alt="logo" height="240px" />
 </div>
+
+Welcome, this is the blog space of aacell.
 
 Our [promotion articles](documentation/articles.md).
 
