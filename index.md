@@ -1,3 +1,7 @@
+<link rel="icon" href="/logo/favicon.ico" type="image/x-icon"/>
+<link rel="shortcut icon" href="/logo/favicon.ico" type="image/x-icon"/>
+<link rel="apple-touch-icon" sizes="180x180" href="/logo/apple-touch-icon.png">
+
 <div style="text-align:center;">
   <img src="documentation/logo.svg" alt="logo" height="240px" />
 </div>
