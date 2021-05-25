@@ -60,7 +60,7 @@ textbox:
 
 <figure class="video_container">
   <video controls="true" allowfullscreen="true">
-    <source src="1.mov" type="video/mov">
+    <source src="1.mov" type="video/mp4">
   </video>
 </figure>
 
