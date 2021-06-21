@@ -37,3 +37,12 @@ aboutpage:
   - :bug: Fix some bugs.
   - :file_folder: Solve the file name encode and decode problem, with Base64.
   - Update UI
+
+## Category Edition 2.0.0
+
+- New features:
+  
+  - New UI.
+  - Battery shop.
+  - Category in the station.
+  
