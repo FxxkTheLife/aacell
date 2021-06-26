@@ -15,7 +15,7 @@ The newest version is [2.0.2](release-notes/2/2.0.2/). The previous version rele
   - [1.2.0](release-notes/1/1.2.0/)
   - [1.2.1](release-notes/1/1.2.1/)
 - [2](release-notes/2/)
-  - [2.0.0](release-notes/2/2.0.0/)
-  - [2.0.1](release-notes/2/2.0.1/)
-  - [2.0.2](release-notes/2/2.0.2/)
+  - [2.0.0](release-notes/2/2.0/2.0.0/)
+  - [2.0.1](release-notes/2/2.0/2.0.1/)
+  - [2.0.2](release-notes/2/2.0/2.0.2/)
 
