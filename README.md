@@ -4,6 +4,9 @@ website:
 - [aacell.me](https://aacell.me)
 - [5-5.work](https://5-5.work)
 
+aboutpage:
+- [About Page](https://about.aacell.me/zh_CN/)
+
 :star:The project records for AA Cell.
 
 :tiger::dog:
@@ -34,3 +37,12 @@ website:
   - :bug: Fix some bugs.
   - :file_folder: Solve the file name encode and decode problem, with Base64.
   - Update UI
+
+## Category Edition 2.0.0
+
+- New features:
+  
+  - New UI.
+  - Battery shop.
+  - Category in the station.
+  
